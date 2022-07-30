@@ -1,0 +1,45 @@
+package com.snow.main.comm.list.music;
+
+import com.sedmelluq.discord.lavaplayer.player.AudioPlayer;
+import com.sedmelluq.discord.lavaplayer.track.playback.AudioFrame;
+import com.sedmelluq.discord.lavaplayer.track.playback.MutableAudioFrame;
+import net.dv8tion.jda.api.audio.AudioSendHandler;
+
+import javax.annotation.Nonnull;
+import javax.annotation.Nullable;
+import java.net.PortUnreachableException;
+import java.nio.Buffer;
+import java.nio.ByteBuffer;
+
+public class AudioPlayerSendHandler implements AudioSendHandler {
+
+    private final AudioPlayer audioPlayer;
+    private final ByteBuffer buffer;
+    private final MutableAudioFrame frame;
+
+    public AudioPlayerSendHandler(AudioPlayer audioPlayer) {
+        this.audioPlayer = audioPlayer;
+        this.buffer = ByteBuffer.allocate(1024);
+        this.frame = new MutableAudioFrame();
+        this.frame.setBuffer(buffer);
+    }
+
+    @Override
+    public boolean canProvide() {
+        return false;
+    }
+
+    @Nullable
+    @Override
+    public ByteBuffer provide20MsAudio() {
+        final Buffer buffer = ((Buffer) this.buffer).flip();
+        return (ByteBuffer) buffer;
+    }
+
+    @Override
+    public boolean isOpus() {
+        return true;
+    }
+
+
+}
