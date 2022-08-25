@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">
-        <b>🙂NRTS_BOT🙂</b>
+        <b>🙂NMNTR🙂</b>
     </h1>
 </p>
 
