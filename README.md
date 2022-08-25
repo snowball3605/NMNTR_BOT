@@ -57,6 +57,9 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
         <tr align="center">
             <td align="center">建議</td>
             <td align="center"><a href="https://github.com/IceLeiYu" alt="新手(IceXinShou)"><b>新手(IceXinShou)</b></td>
+        <tr align="center">
+            <td align="center">提供技術支持</td>
+            <td align="center"><a href="" alt="Kevin(Kevin)"><b>Kevin(Kevin)</b></td>
         </tr>
     </table>
 </p>
