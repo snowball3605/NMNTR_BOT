@@ -56,7 +56,7 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
             <td align="center"><a href="https://github.com/Kevin28576" alt="Kevin(Kevin)"><b>Kevin(Kevin)</b></td>
     	<tr align="center">
             <td align="center">提供技術支持</td>
-            <td align="center"><a href="" alt="小飛(小飛)"><b>小飛(小飛)</b></td>
+            <td align="center"><a href="https://github.com/LuLucutelol" alt="小飛(小飛)"><b>小飛(小飛)</b></td>
         <tr align="center">
             <td align="center">協助代碼編寫</td>
             <td align="center"><a href="https://github.com/IceLeiYu" alt="新手(IceXinShou)"><b>新手(IceXinShou)</b></td>
