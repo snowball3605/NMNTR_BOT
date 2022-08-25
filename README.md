@@ -68,6 +68,14 @@ It is strictly forbidden to embezzle the code of this repository to set up anoth
 </p>
 
 ---
-
+<h1 align="center"><b>相關指令</b></h1>
+                <h2 align="center"><b>/ban [封鎖用戶|ban member]</b></h1>
+                <h2 align="center"><b>/unban [解除封鎖用戶|unban member]</b></h2>
+                <h2 align="center"><b>/ping [查看延遲|View Latency]</b></h2>
+                <h2 align="center"><b>/help [機械人使用教學|bot help]</b></h2>
+                <h2 align="center"><b>/status [查看機械人狀態|Check Robot Status]</b></h2>
+                <h2 align="center"><b>/clear [清除訊息指定數量|Clear the specified number of messages]</b></h2>
+                
+---
 <p align="center">版權所有© 2022 NRTS</p>
 <p align="center">Copyright © 2022 NRTS  All rights reserved</p>
