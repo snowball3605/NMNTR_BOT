@@ -17,8 +17,8 @@
     <a href="https://discord.com/">
         <img alt="Disnake" src="https://img.shields.io/badge/Discord版本-V2.5.1-blue.svg?style=for-the-badge&logo=discord" />
     </a>
-    <a href="[https://discord.gg/yxES7TSmGk](https://discord.gg/hJHpw8qnEk)">
-        <img alt="Disnake" src="https://img.shields.io/discord/825162735603810316?style=for-the-badge&logo=discord&label=加入我們|join us" />
+    <a href="https://discord.gg/hJHpw8qnEk">
+        <img alt="Disnake" src="https://img.shields.io/discord/1011843699975667773?style=for-the-badge&logo=discord&label=加入我們|join us" />
     </a>
 </p>
 
